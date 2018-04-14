@@ -45,7 +45,7 @@
 		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/24022</meta>
 		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/24022</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A miserly money-lender is visited by four ghosts who help him see how to honour Christmas in his heart all year round.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Charles Dickens wrote &lt;em&gt;A Christmas Carol&lt;/em&gt; in 1843 and the first edition, published on 19th December, was so successful that it sold out in just six days. The publishers had to produce two further editions between Christmas and the new year to meet the demand and the novella has never been out of print.&lt;/p&gt;
