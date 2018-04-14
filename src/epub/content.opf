@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/charles-dickens/a-christmas-carol</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2018-04-14T21:55:37Z</dc:date>
+		<meta property="dcterms:modified">2018-04-14T21:55:37Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard se:name.person.full-nameEbooks</meta>
@@ -45,19 +45,18 @@
 		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/24022</meta>
 		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/24022</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A miserly money-lender is visited by four ghosts who help him see how to honour Christmas in his heart all year round.</dc:description>
+		<dc:description id="description">A miserly moneylender is visited by four ghosts who help him see how to honor Christmas in his heart all year round.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Charles Dickens wrote &lt;em&gt;A Christmas Carol&lt;/em&gt; in 1843 and the first edition, published on 19th December, was so successful that it sold out in just six days. The publishers had to produce two further editions between Christmas and the new year to meet the demand and the novella has never been out of print.&lt;/p&gt;
-			&lt;p&gt;&lt;em&gt;A Christmas Carol&lt;/em&gt; tells the story of a greedy money-lender, Ebeneezer Scrooge, who is first visited by the ghost of his former business partner and then by three spirits⁠—the Ghost of Christmas Past, the Ghost of Christmas Present and the Ghost of Christmas Yet to Come. They show Scrooge’s lack of compassion to him and this compels him to act more compassionately in future and to honour Christmas in his heart.&lt;/p&gt;
+			&lt;p&gt;Charles Dickens wrote &lt;i&gt;A Christmas Carol&lt;/i&gt; in 1843 and the first edition, published on 19th December, was so successful that it sold out in just six days. The publishers had to produce two further editions between Christmas and the new year to meet the demand, and the novella has never been out of print.&lt;/p&gt;
+			&lt;p&gt;&lt;em&gt;A Christmas Carol&lt;/em&gt; tells the story of a greedy money-lender, Ebeneezer Scrooge, who is first visited by the ghost of his former business partner and then by three spirits⁠—the Ghost of Christmas Past, the Ghost of Christmas Present and the Ghost of Christmas Yet to Come. They show Scrooge’s lack of compassion to him, compelling him to act more compassionately in the future and to honor Christmas in his heart.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/24022</dc:source>
 		<dc:source>https://archive.org/details/christmascarol00dick2</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">29022</meta>
+		<meta property="se:reading-ease.flesch">79.9</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Christmas_Carol</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_a-christmas-carol</meta>
 		<dc:creator id="author">Charles Dickens</dc:creator>
@@ -90,6 +89,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
