@@ -20,10 +20,6 @@
 	display: none;
 }
 
-[epub|type~="z3998:song"] + p{
-	text-indent: 0;
-}
-
 footer{
 	margin-top: 1em;
 	text-align: right;
