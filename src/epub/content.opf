@@ -31,12 +31,12 @@
 		<dc:title id="title">A Christmas Carol</dc:title>
 		<meta property="file-as" refines="#title">Christmas Carol, A</meta>
 		<dc:subject id="subject-1">Christmas stories</dc:subject>
-		<dc:subject id="subject-2">London (England) -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Poor families -- Fiction</dc:subject>
+		<dc:subject id="subject-2">London (England)--Fiction</dc:subject>
+		<dc:subject id="subject-3">Poor families--Fiction</dc:subject>
 		<dc:subject id="subject-4">Ghost stories</dc:subject>
-		<dc:subject id="subject-5">Misers -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Sick children -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Scrooge, Ebenezer (Fictitious character) -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Misers--Fiction</dc:subject>
+		<dc:subject id="subject-6">Sick children--Fiction</dc:subject>
+		<dc:subject id="subject-7">Scrooge, Ebenezer (Fictitious character)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85025320</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
