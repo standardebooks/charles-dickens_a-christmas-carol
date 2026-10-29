@@ -75,6 +75,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Eastman Johnson</dc:contributor>
 		<meta property="file-as" refines="#artist">Johnson, Eastman</meta>
+		<meta property="schema:alternateName" refines="#artist">Jonathan Eastman Johnson</meta>
 		<link href="https://en.wikipedia.org/wiki/Eastman_Johnson" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n83177936.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
@@ -82,7 +83,7 @@
 		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Janet Blenkinship</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Belnkinship, Janet</meta>
+		<meta property="file-as" refines="#transcriber-2">Blenkinship, Janet</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
